@@ -1,0 +1,16 @@
+{
+  "name": "desafio3",
+  "version": "1.0.0",
+  "description": "Desafio 3, modulo 7, bootcamp Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Silva Quiñones",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
